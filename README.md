@@ -32,3 +32,8 @@
 | Title  |  Conference/Journal          | Year      | Pdf      | Code      | 
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|:-------:|:-------:|
 | The Urgency of Interpretability  |  | 2025 | [pdf](https://www.darioamodei.com/post/the-urgency-of-interpretability) |    | 
+
+## Optimization
+| Title  |  Conference/Journal          | Year      | Pdf      | Code      | 
+|:-----------------------------------------------------------------------------------:|:-----------:|:-------:|:-------:|:-------:|
+| DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models  |  | 2024 | [pdf](https://arxiv.org/pdf/2402.03300) |  [code](https://github.com/deepseek-ai/DeepSeek-Math/tree/main)  | 
